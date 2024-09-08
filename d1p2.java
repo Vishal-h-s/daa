@@ -1,4 +1,4 @@
-package daa;
+
 /*You are part of a team working on a sophisticated communication system for an international spy network. 
 The network uses encoded messages to ensure secure communication between agents. 
 Each message is encoded as a string of digits, and each digit or 
@@ -55,3 +55,7 @@ Sample Output2:
 
 Explanation: No valid decodings
 */
+
+package daa;
+import java.util.*;
+
