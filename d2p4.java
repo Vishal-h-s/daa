@@ -52,6 +52,7 @@ class Solution {
             arr[i]=num;
             sum+=num;
         }
+        sc.close();
         int result=ideal-sum;
         System.out.println(result);
     }
